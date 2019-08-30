@@ -212,3 +212,8 @@ mocha/build/
 mocha/yarn\.lock
 
 interopFableFromJS/yarn\.lock
+
+**/.paket/*
+!**/.paket/Paket.Restore.Targets
+!**/.paket/paket.exe
+!**/.paket/paket.bootstrapper.exe
